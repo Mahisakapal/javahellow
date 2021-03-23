@@ -4,5 +4,6 @@ class hello{
         System.out.println("This is Amardip"); 
         System.out.println("lets try devops"); 
         System.out.println("try of pull scm"); 
+        System.out.println("one more added"); 
     }
 }
